@@ -1,0 +1,22 @@
+.invc {
+  width: 100%;
+}
+.incbutton {
+  color: white;
+  background-color: orangered;
+  border-radius: 4px;
+}
+.incbutton:visited {
+  background-color: wheat;
+  color: black;
+}
+.incgetcus {
+  display: flex;
+  flex-direction: row;
+}
+.item-center {
+  width: 30px;
+}
+.incslip {
+  margin-top: 40px;
+}
