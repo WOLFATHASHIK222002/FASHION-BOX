@@ -17,7 +17,7 @@ import sh_01 from '../img/slide_04.webp';
 import sh_02 from '../img/slide_03.png';
 import sh_03 from '../img/sh_04.png'
 import banner from '../img/banner.jpg';
-import Moveboard from "./Moveoffer";
+
 const AutoPlaySwipeableViews = autoPlay(SwipeableViews);
 
 const images = [
